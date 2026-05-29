@@ -4,7 +4,7 @@ import random
 import colorsys
 import heapq
 import os
-
+import sys
 
 FPS = 30
 MAZE_WIDTH = 100
